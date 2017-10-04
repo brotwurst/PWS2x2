@@ -19,6 +19,7 @@
   -moz-box-sizing: border-box;
   cursor: pointer;
   float: left;
+  line-height: 140px;
   text-align: center;
   font-family: "Arial Narrow";
   font-weight: bold;
